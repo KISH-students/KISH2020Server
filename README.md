@@ -1,5 +1,7 @@
 ![주석 2020-08-29 142602](https://user-images.githubusercontent.com/29895665/91631442-c0488100-ea03-11ea-8712-18e2aaa3cf74.png)
 
+# 이 리포지토리는 [여기](https://github.com/KISH-students/KISH_server)로 이동되었습니다.
+[참고](https://github.com/KISH-students/KISH2020Server/issues/4)
 
 # KISH2020 - Server
 KISH2020SERVER는 **KISH 2020**의 서버 처리를 담당하는 프로그램입니다.
